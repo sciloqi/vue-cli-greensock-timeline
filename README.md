@@ -1,21 +1,10 @@
 # vue-cli-greensock-timeline
+CLI Version based on https://blog.usejournal.com/vue-js-gsap-animations-26fc6b1c3c5a by Daily Fire
 
-## Project setup
-```
-npm install
-```
+I'm learning VUE!
+-----------------
+vue create vue-cli-greensock-timeline<br>
+npm install --save gsap
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+Check:
+https://greensock.com/ease-visualizer
